@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Project_2</string>
+    <string-array name="car_company">
+        <item>Cadillac</item>
+        <item>Chevrolet</item>
+        <item>Mitsubishi</item>
+        <item>Ford</item>
+        <item>Jeep</item>
+        <item>Nissan</item>
+        <item>Audi</item>
+        <item>Subaru</item>
+    </string-array>
+
+    <string-array name="manufacturer_website">
+        <item>http://www.cadillac.com/</item>
+        <item>http://www.chevrolet.com/</item>
+        <item>http://www.mitsubishicars.com/</item>
+        <item>http://www.ford.com/</item>
+        <item>http://www.jeep.com/en/</item>
+        <item>https://www.nissanusa.com//</item>
+        <item>https://www.audiusa.com/</item>
+        <item>http://www.subaru.com/</item>
+    </string-array>
+
+
+    <string-array name="Cadillac">
+        <item>Grossinger Cadillac\n6900 McCormick Blvd, Lincolnwood, IL 60712</item>
+        <item>Shirey Cadillac\n10125 S Cicero Ave, Oak Lawn, IL 60453</item>
+        <item>Steve Foley Cadillac\n100 Skokie Blvd, Northbrook, IL 60062</item>
+    </string-array>
+    <string-array name="Chevrolet">
+        <item>Rogers Chevrolet\n2720 S Michigan Ave, Chicago, IL 60616</item>
+        <item>Mike Anderson Chevrolet of Chicago\n5333 W Irving Park Rd, Chicago, IL 60641</item>
+        <item>Currie Motors Chevrolet\n8401 W Roosevelt Rd, Forest Park, IL 60130</item>
+    </string-array>
+    <string-array name="Mitsubishi">
+        <item>Continental Mitsubishi\n5800 South La Grange Road, La Grange, IL 60525</item>
+        <item>Max Madsen Mitsubishi\n2424 Ogden Ave, Downers Grove, IL 60515</item>
+        <item>Biggers Mitsubishi\n1325 E Chicago St, Elgin, IL 60120</item>
+    </string-array>
+    <string-array name="Ford">
+        <item>Fox Ford Lincoln\n2501 N Elston Ave, Chicago, IL 60647</item>
+        <item>Joe Rizza Ford North Riverside\n2100 Harlem Ave, North Riverside, IL 60546</item>
+        <item>Al Piemonte Ford\n2500 W North Ave, Melrose Park, IL 60160</item>
+    </string-array>
+    <string-array name="Jeep">
+        <item>Marino Chrysler Jeep Dodge\n5133 W Irving Park Rd, Chicago, IL 60641</item>
+        <item>Napleton\'s Northwestern Chrysler Jeep Dodge\n5950 N Western Ave, Chicago, IL 60659</item>
+        <item>South Chicago Dodge Chrysler Jeep\n7340 S Western Ave, Chicago, IL 60636</item>
+    </string-array>
+    <string-array name="Nissan">
+        <item>Mid City Nissan\n4444 W Irving Park Rd, Chicago, IL 60641</item>
+        <item>Star Nissan\n5757 W Touhy Ave, Niles, IL 60714</item>
+        <item>Al Piemonte Nissan\n1600 W North Ave, Melrose Park, IL 60160</item>
+    </string-array>
+    <string-array name="Audi">
+        <item>Fletcher Jones Audi\n1111 N Clark St, Chicago, IL 60610</item>
+        <item>Audi Morton Grove\n7000 Golf Rd, Morton Grove, IL 60025</item>
+        <item>Audi Westmont\n276 E Ogden Ave, Westmont, IL 60559</item>
+    </string-array>
+    <string-array name="Subaru">
+        <item>Grand Subaru\n125 W Grand Ave, Bensenville, IL 60106</item>
+        <item>Evanston Subaru\n3340 Oakton St, Skokie, IL 60076</item>
+        <item>Gerald Subaru of Naperville\n60563, 2379 Aurora Ave, Naperville, IL 60540</item>
+    </string-array>
+
+    <string name="selectOption"><b><font color='black'>Select Option</font></b></string>
+    <string name="viewPicture">View Picture</string>
+    <string name="companyWebPage">Company Web Page</string>
+    <string name="carDealers">Car Dealers</string>
+</resources>
