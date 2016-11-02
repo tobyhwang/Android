@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Project_3_A3</string>
+    <string-array name="HotelNames">
+        <item>The Ritz-Carlton, Chicago\n118 E Erie St, Chicago, IL 60611</item>
+        <item>The Drake Hotel\n140 E Walton Pl, Chicago, IL 60611</item>
+        <item>Omni Chicago Hotel\n676 N Michigan Ave, Chicago, IL 60611</item>
+        <item>Palmer House\n17 E Monroe St, Chicago, IL 60603</item>
+        <item>Four Seasons Hotel Chicago\n120 E Delaware Pl, Chicago, IL 60611</item>
+        <item>the Wit\n201 North State Street Chicago, IL 60601</item>
+    </string-array>
+    <string-array name="RestNames">
+        <item>Alinea\n1723 N Halsted St, Chicago, IL 60614</item>
+        <item>Juno Sushi Chicago\n2638 N Lincoln Ave, Chicago, IL 60614</item>
+        <item>RPM Italian\n52 W Illinois St, Chicago, IL 60654  </item>
+        <item>Devon Seafood Grill\n39 E Chicago Ave, Chicago, IL 60611</item>
+        <item>The Boarding House\n720 N Wells St, Chicago, IL 60654</item>
+        <item>Au Cheval\n800 W Randolph St, Chicago, IL 60607</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
